@@ -91,7 +91,9 @@ here is a demo,
 Clone the repository
 
 ```bash
-[https://github.com/sneha0725/Movie-Recommender-System-Using-Machine-Learning.git](https://github.com/sneha0725/Movie-Recommender-System-Using-Machine-Learning.git)```
+
+https://github.com/sneha0725/Movie-Recommender-System-Using-Machine-Learning.git
+```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
@@ -126,5 +128,6 @@ Author: Sneha Singh
 Email: sneha090872@gmail.com
 
 ```
+
 
 
